@@ -16,6 +16,12 @@ Higher daily temperatures could imply more persons would visit the ice cream bus
 
 - The most occuring temperature recored for June was about 75 degrees while for December, it was about 70 degrees
 
+![alt text](Junetemp_df.PNG)![alt text](Junebins.PNG)
+
+
+![alt text](dectemps_df.PNG)![alt text](Decbins.PNG)
+
+
 #### Summary
 
 In general, it is shown that June had hotter degrees of temperature, compared to December; the average rainfall between these months (74 and 71 degrees respectively), confirms this.
